@@ -9,4 +9,5 @@ class CreateCostumes < ActiveRecord::Migration[5.1]
         t.timestamps
       end
     end
+
 end
